@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "灯詩",
+  "base_artist": "MAQIA",
+  "createdAt": "2026-02-14T05:59:04.556829Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "灯詩",
+      "artist": "MAQIA",
+      "has_synced": false,
+      "path": "select/pl_01_灯詩_MAQIA.txt"
+    }
+  ]
+}
